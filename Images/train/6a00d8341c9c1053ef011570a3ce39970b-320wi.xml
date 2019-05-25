@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>6a00d8341c9c1053ef011570a3ce39970b-320wi.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\6a00d8341c9c1053ef011570a3ce39970b-320wi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>43</ymin>
+			<xmax>259</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

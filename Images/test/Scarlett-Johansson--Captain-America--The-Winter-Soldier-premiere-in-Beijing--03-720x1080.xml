@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Scarlett-Johansson--Captain-America--The-Winter-Soldier-premiere-in-Beijing--03-720x1080.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\Scarlett-Johansson--Captain-America--The-Winter-Soldier-premiere-in-Beijing--03-720x1080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>america</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>468</ymin>
+			<xmax>650</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

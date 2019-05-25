@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>94bf2bdf9d5a0df469b3a72213ead27a--valentine-day-cards-happy-valentines-day.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\94bf2bdf9d5a0df469b3a72213ead27a--valentine-day-cards-happy-valentines-day.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>america</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>14</ymin>
+			<xmax>423</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

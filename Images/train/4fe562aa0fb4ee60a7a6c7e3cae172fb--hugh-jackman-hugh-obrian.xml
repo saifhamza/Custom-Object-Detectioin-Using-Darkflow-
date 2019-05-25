@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4fe562aa0fb4ee60a7a6c7e3cae172fb--hugh-jackman-hugh-obrian.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\4fe562aa0fb4ee60a7a6c7e3cae172fb--hugh-jackman-hugh-obrian.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>14</ymin>
+			<xmax>175</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

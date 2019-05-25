@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>SAV-AVENGERS-1-1-720x1080.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\SAV-AVENGERS-1-1-720x1080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>726</ymin>
+			<xmax>484</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>

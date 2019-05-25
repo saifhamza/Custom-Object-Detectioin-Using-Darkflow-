@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>The-Wolverine-Hugh-Jackman-image-6.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\The-Wolverine-Hugh-Jackman-image-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2994</width>
+		<height>1986</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jackman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1404</xmin>
+			<ymin>250</ymin>
+			<xmax>2328</xmax>
+			<ymax>1599</ymax>
+		</bndbox>
+	</object>
+</annotation>

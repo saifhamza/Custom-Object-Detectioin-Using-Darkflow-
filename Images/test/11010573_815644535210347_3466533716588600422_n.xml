@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>11010573_815644535210347_3466533716588600422_n.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\11010573_815644535210347_3466533716588600422_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saif</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>9</ymin>
+			<xmax>470</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>
